@@ -20,6 +20,7 @@ Prerequisites
 Installation
 1. Clone the repository:
    ```bash
+git clone https://github.com/bodsites/merge-it-solution.git
 
 Navigate to the project directory
 cd merge-it-solution
